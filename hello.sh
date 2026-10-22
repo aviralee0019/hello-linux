@@ -1,2 +1,3 @@
 hello -linux 
-to complete add,commit,push and verify
+to  add,commit,push and verify
+hello bari boy
