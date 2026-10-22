@@ -1,2 +1,2 @@
-hello -linux 
-to complete add,commit,push and verify
+hello Mr Bari 
+how are you!!!!!!!!!
